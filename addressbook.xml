@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<addressbook>
+  <address>
+    <firstname><![CDATA[deno]]></firstname>
+    <lastname><![CDATA[kip]]></lastname>
+    <email><![CDATA[ron@gmail.com]]></email>
+    <street><![CDATA[mombasa]]></street>
+    <zip_code><![CDATA[00101]]></zip_code>
+    <city><![CDATA[nai]]></city>
+  </address>
+  <address>
+    <firstname><![CDATA[deno]]></firstname>
+    <lastname><![CDATA[kip]]></lastname>
+    <email><![CDATA[ron@gmail.com]]></email>
+    <street><![CDATA[mombasa]]></street>
+    <zip_code><![CDATA[00101]]></zip_code>
+    <city><![CDATA[nai]]></city>
+  </address>
+  <address>
+    <firstname><![CDATA[denof]]></firstname>
+    <lastname><![CDATA[kipf]]></lastname>
+    <email><![CDATA[rsson@gmail.com]]></email>
+    <street><![CDATA[mombasas]]></street>
+    <zip_code><![CDATA[001015]]></zip_code>
+    <city><![CDATA[nair]]></city>
+  </address>
+  <address>
+    <firstname><![CDATA[denof]]></firstname>
+    <lastname><![CDATA[kipf]]></lastname>
+    <email><![CDATA[rsson@gmail.com]]></email>
+    <street><![CDATA[mombasas]]></street>
+    <zip_code><![CDATA[001015]]></zip_code>
+    <city><![CDATA[nair]]></city>
+  </address>
+  <address>
+    <firstname><![CDATA[denofd]]></firstname>
+    <lastname><![CDATA[kipfv]]></lastname>
+    <email><![CDATA[rssfon@gmail.com]]></email>
+    <street><![CDATA[mombdasas]]></street>
+    <zip_code><![CDATA[0010154]]></zip_code>
+    <city><![CDATA[nairv]]></city>
+  </address>
+</addressbook>
